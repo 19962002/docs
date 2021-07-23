@@ -1,4 +1,4 @@
----
+-F35 COİN--
 meta:
   - name: description
     content: Learn the difference between a shared and a dedicated Binance Smart Chain node deployed with the Chainstack managed blockchain services.
